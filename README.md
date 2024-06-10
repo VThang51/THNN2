@@ -35,3 +35,13 @@
 
 10. **Hệ thống mạng nội bộ được thiết kế như thế nào để đáp ứng các yêu cầu của CTY VNTransport?**
 - **Trả lời**: Hệ thống mạng nội bộ được thiết kế với cấu trúc mô hình domain, sử dụng các dịch vụ của Windows Server để quản lý và bảo mật thông tin, kết hợp với các thiết bị phù hợp để đảm bảo hiệu suất và độ tin cậy cao. Các yêu cầu cụ thể của VNTransport như lưu trữ và sao lưu dữ liệu, bảo mật thông tin, và kết nối Internet đều được đáp ứng thông qua các giải pháp đã đề xuất.
+# Thực hiện 9 bài thực hành Quản Trị Mạng
+
+# Owner
+```owner
+#
+# The above exercise was done by Thang Nguyen
+#
+# Reproduction in any formis strictly prohibited
+#
+```
